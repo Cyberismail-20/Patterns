@@ -1,0 +1,137 @@
+[
+    {
+        "pattern": "Broadening Bottoms",
+        "type": "Reversal",
+        "directional_bias": "Bullish",
+        "description": "Forms at the end of a downtrend with a megaphone shape of higher highs and lower lows.",
+        "volume": "Diminishes through the pattern until breakout.",
+        "confirmation": "Close above upper trend-line on above average volume.",
+        "measuring_technique": "Measure from highest high to lowest low and add to the highest high."
+    },
+    {
+        "pattern": "Cup and Handle",
+        "type": "Continuation",
+        "directional_bias": "Bullish",
+        "description": "Occurs in an uptrend forming a U-shaped cup with a handle.",
+        "volume": "High at left lip, drops at the bottom, rises toward right lip and breakout.",
+        "confirmation": "Close above upper trend-line on above average volume.",
+        "measuring_technique": "Measure from right lip to bottom of cup and add to right lip level."
+    },
+    {
+        "pattern": "Head and Shoulders",
+        "type": "Reversal",
+        "directional_bias": "Bearish",
+        "description": "Three-peak formation with a higher center peak. Neckline drawn across intervening lows.",
+        "volume": "High into the first peak, balanced at head, expands on breakout below neckline.",
+        "confirmation": "Close below neckline with above average volume.",
+        "measuring_technique": "Measure from the first low to the high of the head, subtract from neckline."
+    },
+    {
+        "pattern": "Flags (Bullish)",
+        "type": "Continuation",
+        "directional_bias": "Bullish",
+        "description": "Short downward-sloping channel after a sharp upward move.",
+        "volume": "Declines during formation, expands on breakout.",
+        "confirmation": "Close above upper trend-line on above average volume.",
+        "measuring_technique": "Measure previous steep move and add to breakout level."
+    },
+    {
+        "pattern": "Triangles (Ascending)",
+        "type": "Continuation",
+        "directional_bias": "Bullish",
+        "description": "Equal highs and rising lows forming a triangle. Typically breaks out 2/3 to 3/4 of the way to the apex.",
+        "volume": "Declines throughout formation and expands on breakout.",
+        "confirmation": "Close above highs on above average volume.",
+        "measuring_technique": "Subtract lowest low from highest high and add to breakout level."
+    },
+    {
+        "pattern": "Triangles (Descending)",
+        "type": "Continuation",
+        "directional_bias": "Bearish",
+        "description": "Equal lows and falling highs forming a triangle. Typically breaks out 2/3 to 3/4 of the way to the apex.",
+        "volume": "Declines throughout formation and expands on breakout.",
+        "confirmation": "Close below lows on above average volume.",
+        "measuring_technique": "Subtract lowest low from highest high and subtract from breakout level."
+    },
+    {
+        "pattern": "Triangles (Symmetrical)",
+        "type": "Continuation or Reversal",
+        "directional_bias": "Bullish or Bearish",
+        "description": "Lower highs and higher lows forming a triangle. Can breakout in either direction.",
+        "volume": "Declines throughout formation and expands on breakout.",
+        "confirmation": "Close above or below converging trendlines on above average volume.",
+        "measuring_technique": "Subtract lowest low from highest high and add or subtract from breakout depending on direction."
+    },
+    {
+        "pattern": "Triple Bottoms",
+        "type": "Reversal",
+        "directional_bias": "Bullish",
+        "description": "Three equal lows with horizontal resistance breakout.",
+        "volume": "Drifts downward during formation and expands on breakout.",
+        "confirmation": "Close above upper trend-line across intervening highs with above average volume.",
+        "measuring_technique": "Measure distance between high and lows and add to breakout level."
+    },
+    {
+        "pattern": "Triple Tops",
+        "type": "Reversal",
+        "directional_bias": "Bearish",
+        "description": "Three equal highs with horizontal support breakdown.",
+        "volume": "Drifts downward during formation and expands on breakout.",
+        "confirmation": "Close below lower trend-line across intervening lows with above average volume.",
+        "measuring_technique": "Measure distance between low and highs and subtract from breakout level."
+    },
+    {
+        "pattern": "Wedges (Falling)",
+        "type": "Continuation",
+        "directional_bias": "Bullish",
+        "description": "Lower highs and lower lows within converging trendlines in a downtrend.",
+        "volume": "Declines throughout formation and expands on breakout.",
+        "confirmation": "Close above upper descending trendline with above average volume.",
+        "measuring_technique": "Target is the highest high of the formation."
+    },
+    {
+        "pattern": "Wedges (Rising)",
+        "type": "Continuation",
+        "directional_bias": "Bearish",
+        "description": "Higher highs and higher lows within converging trendlines in an uptrend.",
+        "volume": "Declines throughout formation and expands on breakout.",
+        "confirmation": "Close below lower ascending trendline with above average volume.",
+        "measuring_technique": "Target is the lowest low of the formation."
+    },
+    {
+        "pattern": "Rounding Bottoms",
+        "type": "Continuation",
+        "directional_bias": "Bullish",
+        "description": "Concave-shaped pattern indicating a base with gradual recovery.",
+        "volume": "Mirrors price pattern and expands on breakout.",
+        "confirmation": "Close above lip of the rounding bottom with above average volume.",
+        "measuring_technique": "Subtract lowest low from highest high and add to breakout level."
+    },
+    {
+        "pattern": "Rounding Tops",
+        "type": "Continuation",
+        "directional_bias": "Bearish",
+        "description": "Convex-shaped pattern indicating a top with gradual decline.",
+        "volume": "Forms a U-shape and expands on breakout.",
+        "confirmation": "Close below lip of rounding top with above average volume.",
+        "measuring_technique": "Subtract lowest low from highest high and subtract from breakout level."
+    },
+    {
+        "pattern": "Head & Shoulders (Inverted)",
+        "type": "Reversal",
+        "directional_bias": "Bullish",
+        "description": "Three-valley pattern with center low lower than shoulders. Indicates reversal to the upside.",
+        "volume": "High at left shoulder, balanced at head, expands on breakout.",
+        "confirmation": "Close above neckline with above average volume.",
+        "measuring_technique": "Measure from first high to head low and add to neckline."
+    },
+    {
+        "pattern": "Double Bottom (Adam & Adam)",
+        "type": "Reversal",
+        "directional_bias": "Bullish",
+        "description": "Two sharp V-shaped bottoms.",
+        "volume": "Declines through formation and expands on breakout.",
+        "confirmation": "Close above high between bottoms on above average volume.",
+        "measuring_technique": "Measure from high to bottoms and add to breakout level."
+    }
+]

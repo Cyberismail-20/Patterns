@@ -1,0 +1,91 @@
+{
+  "patterns": [
+    {
+      "name": "Broadening Bottoms",
+      "type": "Reversal",
+      "directional_bias": "Bullish",
+      "description": "This pattern forms at the tail end of a downtrend. The pattern takes on the appearance of a megaphone as the price forms a series of higher highs and lower lows throughout the formation. The pattern needs at least two highs and lows to be a valid formation.",
+      "volume": "The volume should diminish through the pattern up until the breakout",
+      "breakout_confirmation": "A close above the upper trend-line on above average volume.",
+      "measuring_technique": "Measure from the highest high to the lowest low before the breakout, and add that amount to the highest high for the price target.",
+      "statistical_notes": "Year lows tend to perform better."
+    },
+    {
+      "name": "Broadening Tops",
+      "type": "Reversal",
+      "directional_bias": "Bearish",
+      "description": "This pattern forms at the tail end of an uptrend. The pattern takes on the appearance of a megaphone as the price forms a series of higher highs and lower lows throughout the formation. The pattern needs at least two highs and lows to be a valid formation.",
+      "volume": "The volume should diminish through the pattern up until the breakout",
+      "breakout_confirmation": "A close below the lower trend-line on above average volume.",
+      "measuring_technique": "Measure from the highest high to the lowest low before the breakout and subtract that amount from the lowest low for the price target.",
+      "statistical_notes": "Year highs tend to perform better."
+    },
+    {
+      "name": "Bump-and-Run Reversal Bottoms",
+      "type": "Non-Directional",
+      "directional_bias": "Bullish",
+      "description": "This pattern is comprised of three phases and looks similar to a frying pan. There is the lead-in phase, the bump phase and the uphill run. The bump phase forms a flat or rounded bottom. The uphill run phase is after the breakout.",
+      "volume": "Volume is typically high at the beginning of each phase and decreases throughout each phase.",
+      "breakout_confirmation": "A close above the upper trend-line drawn across the highs during the lead-in phase, with above average volume.",
+      "measuring_technique": "The price target is the highest point of the lead-in phase.",
+      "statistical_notes": "Wider formations tend to perform better than narrower formations, and a throwback hurts performance."
+    },
+    {
+      "name": "Bump-and-Run Reversal Tops",
+      "type": "Non-Directional",
+      "directional_bias": "Bearish",
+      "description": "This pattern is comprised of three phases and looks similar to a mountain range. There is the lead-in phase, the bump phase and the downhill run. The bump phase forms a flat or rounded top. The downhill run phase is after the breakout.",
+      "volume": "Volume is typically high at the beginning of each phase and decreases throughout each phase.",
+      "breakout_confirmation": "A close below the lower trend-line drawn across the lows during the lead-in phase, with above average volume.",
+      "measuring_technique": "The price target is the lowest point of the lead-in phase.",
+      "statistical_notes": "Wider formations tend to perform better than narrower formations, and a pullback hurts performance."
+    },
+    {
+      "name": "Cup and Handle",
+      "type": "Continuation",
+      "directional_bias": "Bullish",
+      "description": "This pattern occurs within the context of a longer uptrend and is characterized by the price forming a u-shaped cup with a short handle on the right. The duration of the cup should last at least 7 weeks if using a daily chart.",
+      "volume": "Volume follows the shape of the cup: high as the left lip forms, falling at the bottom, rising toward the right lip and on breakout.",
+      "breakout_confirmation": "A close above the upper trend-line drawn across the handle with above average volume.",
+      "measuring_technique": "Measure from the right lip to the bottom of the cup and add that amount to the right lip price.",
+      "statistical_notes": "Shorter handles and deeper cups with left lip slightly higher than the right lip perform better."
+    },
+    {
+        "pattern": "Triangles (Ascending)",
+        "type": "Continuation",
+        "directional_bias": "Bullish",
+        "description": "Equal highs and rising lows forming a triangle. Typically breaks out 2/3 to 3/4 of the way to the apex.",
+        "volume": "Declines throughout formation and expands on breakout.",
+        "confirmation": "Close above highs on above average volume.",
+        "measuring_technique": "Subtract lowest low from highest high and add to breakout level."
+    },
+    {
+        "pattern": "Triangles (Descending)",
+        "type": "Continuation",
+        "directional_bias": "Bearish",
+        "description": "Equal lows and falling highs forming a triangle. Typically breaks out 2/3 to 3/4 of the way to the apex.",
+        "volume": "Declines throughout formation and expands on breakout.",
+        "confirmation": "Close below lows on above average volume.",
+        "measuring_technique": "Subtract highest high from lowest low and subtract from breakout level."
+    },
+     {
+        "pattern": "Triple Bottoms",
+        "type": "Reversal",
+        "directional_bias": "Bullish",
+        "description": "Three equal lows with horizontal resistance breakout.",
+        "volume": "Drifts downward during formation and expands on breakout.",
+        "confirmation": "Close above upper trend-line across intervening highs with above average volume.",
+        "measuring_technique": "Measure distance between high and lows and add to breakout level."
+    },
+    {
+        "pattern": "Triple Tops",
+        "type": "Reversal",
+        "directional_bias": "Bearish",
+        "description": "Three equal highs with horizontal support breakdown.",
+        "volume": "Drifts downward during formation and expands on breakout.",
+        "confirmation": "Close below lower trend-line across intervening lows with above average volume.",
+        "measuring_technique": "Measure distance between low and highs and subtract from breakout level."
+    }
+    
+  ]
+}
