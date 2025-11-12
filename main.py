@@ -9,7 +9,7 @@ import matplotlib.dates as mdates
 
 # Load patterns from JSON file
 def load_patterns():
-    with open("c:\\Projects\\Patterns\\Assets\\chart_patterns_dataset.json", "r") as file:
+    with open("./Assets/chart_patterns_dataset.json", "r") as file:
         return json.load(file)
 
 # Function to fetch OHLCV data
